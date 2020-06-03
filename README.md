@@ -1,4 +1,4 @@
-# ACM MM 2020 Anonymous Submission: Forest R-CNN: Large-Vocabulary Long-Tailed Object Detection and Instance Segmentation
+# ACM MM 2020 Anonymous Submission 434: Forest R-CNN: Large-Vocabulary Long-Tailed Object Detection and Instance Segmentation
 
 This repo is an official implementation of "Forest R-CNN: Large-Vocabulary Long-Tailed Object Detection and Instance Segmentation"based on open-mmlab's mmdetection. Many thanks to mmdetection for their simple and clean framework. If you have any questions, please comment in the issue and we will reply asap.
 
